@@ -1,0 +1,19 @@
+nav {
+  border-bottom: 2px solid cornflowerblue;
+}
+.date{
+  margin-top: -10px;
+}
+.date span{
+  font-weight: 600;
+  font-size: 16px;
+  /* color: cornflowerblue; */
+}
+.time{
+  margin-top: -10px;
+}
+.time span{
+  font-weight: 600;
+  font-size: 16px;
+  /* color: cornflowerblue; */
+}
